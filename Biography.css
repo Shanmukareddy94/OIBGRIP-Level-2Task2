@@ -1,0 +1,34 @@
+#details{
+    font-size:5mm;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    background-color: rgb(1, 5, 4);
+    color: aliceblue;
+    padding: 25px;
+}
+#ttl{
+    text-align: center;
+    font-size: 5mm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#qut{
+    text-align: center;
+    font-size: 4mm;
+    font-family: cursive;
+}
+.ht{
+    background-color: rgb(244, 79, 8);
+}
+.hp{
+    text-align: center;
+    height: 45vh;
+    width:40vh;
+    border-radius: 5px;
+    margin-left: 550px; 
+}
+.para{
+    margin:35px;
+}
+
